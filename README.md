@@ -40,8 +40,8 @@ for each wear category.</p>
 ### Program:
 
 ```
-Developed by : D.vishnu vardhan reddy
-Reference No : 212221230023
+Developed by : Chevula Naga Durga
+Reference No : 212221230014
 
 ```
 
